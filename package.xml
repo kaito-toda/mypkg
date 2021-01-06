@@ -1,3 +1,9 @@
+
+<!-- SPDX-License-Identifier: GPL-3.0
+
+ Copyright (C) 2020 KaitoToda + RyuichiUeda.  All rights reserved.
+-->
+
 <?xml version="1.0"?>
 <package format="2">
   <name>mypkg</name>
