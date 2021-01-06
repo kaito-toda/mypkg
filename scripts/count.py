@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #SPDX-License-Identifier: GPL-3.0
 #
-# Copyright (C) 2020 KaitoToda + RyuichiUeda.  All rights reserved.
+# Copyright (C) 2021 KaitoToda + RyuichiUeda.  All rights reserved.
 #
 
 import rospy
