@@ -21,3 +21,9 @@ conver.py: 受け取った数値を足したり引いたりする処理を初期
 ## 動作の様子
 <https://youtu.be/zwDeA9JCUw8>  
 年始の暇つぶしにどうぞ。なかなか1000にたどり着かないらずぱい君が可愛く思えてくるかもしれません。  
+
+## launchファイルについて
+launchディレクトリ内にあるconver.launchを使用することで、count.py,conver.py,roscoreを一斉起動することができる。  
+`roslaunch mypkg conver.launch --screen`  
+使用動画  
+<https://www.youtube.com/watch?v=Jo5Sk366fiA>  
