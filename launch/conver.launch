@@ -1,0 +1,9 @@
+<!-- SPDX-License-Identifier: GPL-3.0
+
+Copyright (C) 2021 KaitoToda + RyuichiUeda.  All rights reserved
+-->
+
+<launch>
+	<node pkg="mypkg" type="count.py" name="count"/>
+	<node pkg="mypkg" type="conver.py" name="conver"/>
+</launch>
